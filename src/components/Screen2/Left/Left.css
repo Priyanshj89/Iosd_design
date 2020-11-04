@@ -1,0 +1,118 @@
+.left-sec {
+	padding: 15px;
+	min-width: 250px;
+	max-width: 100%;
+	min-height: 200px;
+	height: fit-content;
+	background-color: white;
+	margin: 8%;
+	border-radius: 20px;
+	display: flex;
+	flex-direction: column;
+}
+
+.account {
+	background-color: rgb(248, 245, 245);
+	min-height: 20px;
+	border-radius: 8px;
+	padding: 8px;
+	margin: 10px;
+	margin-left: 0;
+	display: flex;
+	align-self: center;
+}
+
+.imgcontainer {
+	max-width: 25px;
+	min-width: 25px;
+	max-height: 25px;
+	min-height: 25px;
+	align-self: center;
+	border-radius: 50%;
+	margin-right: 10px;
+	margin-left: 20px;
+}
+
+.done-checkbox {
+	min-width: 15px;
+	max-width: 15px;
+	min-height: 15px;
+	max-height: 15px;
+	background-color: rgb(34, 187, 154);
+	border-radius: 50%;
+	margin: auto;
+	cursor: pointer;
+}
+
+.checkbox {
+	min-width: 15px;
+	max-width: 15px;
+	min-height: 15px;
+	max-height: 15px;
+	background-color: white;
+	border-radius: 50%;
+	border-style: solid;
+	border-color: lightgray;
+	border-width: 1px;
+	margin: auto;
+	cursor: pointer;
+}
+
+.done_icon {
+	color: white;
+	font-size: 10px;
+	justify-content: center;
+	display: flex;
+	align-self: center;
+	margin-top: 3px;
+	margin-right: 1px;
+}
+
+.done-checkbox2 {
+	min-width: 15px;
+	max-width: 15px;
+	min-height: 15px;
+	max-height: 15px;
+	background-color: rgb(34, 187, 154);
+	border-radius: 50%;
+	margin-right: 10px;
+	margin-top: 4px;
+	cursor: pointer;
+}
+
+.checkbox2 {
+	min-width: 15px;
+	max-width: 15px;
+	min-height: 15px;
+	max-height: 15px;
+	background-color: white;
+	border-radius: 50%;
+	border-style: solid;
+	border-color: lightgray;
+	border-width: 1px;
+	margin-right: 5px;
+	cursor: pointer;
+}
+
+#myProgressHome {
+	width: 80%;
+	background-color: rgb(248, 245, 245);
+	max-height: 5px;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 50px;
+}
+
+#myBarHome {
+	width: 66.6%;
+	height: 100%;
+	background-color: rgb(241, 131, 131);
+	height: 5px;
+}
+
+#myBarHome1 {
+	width: 50%;
+	height: 100%;
+	background-color: rgb(241, 131, 131);
+	height: 5px;
+}

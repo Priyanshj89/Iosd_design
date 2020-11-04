@@ -1,0 +1,11 @@
+.dashboard {
+	display: flex;
+	flex-direction: column;
+}
+
+.dashboard-body {
+	display: flex;
+	min-height: 100%;
+	background: #dfedf5;
+	flex-wrap: wrap;
+}
