@@ -1,3 +1,11 @@
+## Simple Sign-in design along with one more page
+- Can not access the info page until both the email and password wriiten
+- Password visibility icon works
+- Date range is dropdown and changes on selecting
+- Can read full comments if hovered on right arrow
+- Drop down from down key near profile
+- Pages and channels checkboxes can be checked and unchecked
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
